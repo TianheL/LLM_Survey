@@ -159,6 +159,8 @@ Naive是Advanced的特殊形式，Advanced又是Modular的特殊形式
 
 另外，检索模块也需要进行微调，单纯FT 检索模块也可以提点。通过各种技术提高检索命中率不一定会改善最终结果，因为检索到的文档可能与LLM没有对齐。另外，微调检索模块能够很好地和当前领域数据对齐。
 
+当然两个一起调效果更好。
+
 ## Reference
 [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
 
